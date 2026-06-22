@@ -1,2 +1,2 @@
 # Project Git by [พีรพัฒน์ นุชชาติ]
-## Welcome to Git of [ชื่อนักเรียน]
+## Welcome to Git of [Peerapat nutchati]
